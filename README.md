@@ -179,4 +179,4 @@ Note: The callback that gets passed into `.done`  gets `data` as an argument. `d
 * [Application programming interface](http://en.wikipedia.org/wiki/Application_programming_interface)
 * [jQuery.get()](http://api.jquery.com/jquery.get/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-ajax-callbacks-readme'>AJAX and Callbacks</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG AJAX and Callbacks</p>
